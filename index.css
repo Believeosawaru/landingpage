@@ -2,7 +2,7 @@ body {font-family: sans-serif;
 }
 header {background-color: darkblue; color:
   white; margin-bottom: 2em; padding: 1em;
-  line-height: 5em;
+  line-height: 9.1em;
 }
 * {margin: 0;}
 .alin {text-align: center; font-family: 
@@ -25,22 +25,22 @@ span {font-style: italic; font-weight:
 }
 header button {background-color: white;
 border-radius: 0.2em; border-color: 
-darkblue; padding: 1.2em; font-size: 1.3em;
+darkblue; padding: 1.2em; font-size: 2em;
 font-weight: bold;
 }
 article {background-color: #5f5f5f; color: 
-white; padding: 1em; line-height: 5em; 
+white; padding: 1em; line-height: 9.1em; 
 font-family: serif;
 }
 article button {color: black; background: 
-white; padding: 1.2em; font-size: 1.3em;
+white; padding: 1.2em; font-size: 2em;
   
 }
 section {padding: 1em;
-font-family: serif; line-height: 5em;}
+font-family: serif; line-height: 9.1em;}
 section button {background-color: white;
 color: white; padding: 1.2em; font-size: 
-  1.3em;
+  2em;
 }
 a {text-decoration: none;}
 a:active {color: blue; background-color: white}
